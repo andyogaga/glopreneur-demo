@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/glopreneur-demo/static/css/main.e6e1bb00.chunk.css",
+    "main.js": "/glopreneur-demo/static/js/main.32c28333.chunk.js",
+    "main.js.map": "/glopreneur-demo/static/js/main.32c28333.chunk.js.map",
+    "runtime~main.js": "/glopreneur-demo/static/js/runtime~main.60fdd11d.js",
+    "runtime~main.js.map": "/glopreneur-demo/static/js/runtime~main.60fdd11d.js.map",
+    "static/css/2.266e55a5.chunk.css": "/glopreneur-demo/static/css/2.266e55a5.chunk.css",
+    "static/js/2.dde21c4f.chunk.js": "/glopreneur-demo/static/js/2.dde21c4f.chunk.js",
+    "static/js/2.dde21c4f.chunk.js.map": "/glopreneur-demo/static/js/2.dde21c4f.chunk.js.map",
+    "index.html": "/glopreneur-demo/index.html",
+    "precache-manifest.3d6a432fe30b6283e6296625e38796c1.js": "/glopreneur-demo/precache-manifest.3d6a432fe30b6283e6296625e38796c1.js",
+    "service-worker.js": "/glopreneur-demo/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/glopreneur-demo/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.e6e1bb00.chunk.css.map": "/glopreneur-demo/static/css/main.e6e1bb00.chunk.css.map",
+    "static/media/Network.png": "/glopreneur-demo/static/media/Network.3a522a42.png",
+    "static/media/Post Four.jpg": "/glopreneur-demo/static/media/Post Four.75b75a38.jpg",
+    "static/media/Post One.jpg": "/glopreneur-demo/static/media/Post One.647b80db.jpg",
+    "static/media/Post Three.jpg": "/glopreneur-demo/static/media/Post Three.3cafd752.jpg",
+    "static/media/Post Two.jpg": "/glopreneur-demo/static/media/Post Two.d8a31a3b.jpg",
+    "static/media/Slide One.jpg": "/glopreneur-demo/static/media/Slide One.a7b712ad.jpg",
+    "static/media/Slide Two.jpg": "/glopreneur-demo/static/media/Slide Two.335810e5.jpg",
+    "static/media/Ultimate Guide.png": "/glopreneur-demo/static/media/Ultimate Guide.c7730b16.png",
+    "static/media/professionals.css": "/glopreneur-demo/static/media/bg.17d0c7a5.jpg",
+    "static/media/bizPartners.png": "/glopreneur-demo/static/media/bizPartners.7b15a647.png"
+  }
+}
