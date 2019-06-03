@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
@@ -20,8 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://shleeq.github.io/glo-demo1",
-  "repository": { "type": "git", "url": "<GITHUB REPO LINK>" },
+  "homepage": "https://shleeq.github.io/glopreneur-demo",
   "browserslist": {
     "production": [
       ">0.2%",
