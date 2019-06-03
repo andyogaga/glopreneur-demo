@@ -42,22 +42,22 @@ class PostsRow extends Component {
           </Col>
         </Row>
         <Row style={{marginTop: 20, marginBottom: 20}}>
-          <Col xs={6} md={4}>
+          <Col xs={6} md={3}>
           <FormGroup>
           <Input type="text" name="search" id="fname" placeholder="Full Name" style={{borderColor: '#337700', borderRadius: 0, borderWidth: 1.5}} />
         </FormGroup>
           </Col>
-          <Col xs={6} md={4} >
+          <Col xs={6} md={3} >
           <FormGroup>
           <Input type="text" name="search" id="bizname" placeholder="Business Name" style={{borderColor: '#337700', borderRadius: 0, borderWidth: 1.5}}/>
         </FormGroup>
           </Col>
-          <Col xs={6} md={4}>
+          <Col xs={6} md={3}>
           <FormGroup>
           <Input type="email" name="search" id="email" placeholder="Email Address " style={{borderColor: '#337700', borderRadius: 0, borderWidth: 1.5}}/>
         </FormGroup>
           </Col>
-          <Col xs={6} md={4}>
+          <Col xs={6} md={3}>
           <Button style={{width: '80%', backgroundColor: '#337700', borderRadius: 0, fontWeight: 'bold'}}>Subscribe</Button>
           </Col>
         </Row>
