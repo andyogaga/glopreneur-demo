@@ -16,6 +16,14 @@ const items = [
   {
     src: require('../../assets/images/Slide Two.jpg'),
     altText: 'Slide 2',
+  },
+  {
+    src: require('../../assets/images/M1 - laptops.jpg'),
+    altText: 'Slide 3',
+  },
+  {
+    src: require('../../assets/images/M1 - Smartphones.jpg'),
+    altText: 'Slide 4',
   }
 ];
 
