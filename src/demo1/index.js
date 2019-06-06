@@ -48,7 +48,7 @@ export class Demo1 extends Component {
         <Container fluid={true} >
           <Row >
             <Col xs='12' sm='4'  style={{padding: 1}}>
-            <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle} style={{ margin: 0, backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}}>
+            <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle} style={{ margin: 0, backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}} onMouseOver={this.toggle}>
                   <DropdownToggle style={{ backgroundColor: 'transparent', padding: 0, borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}}>
                   <Category img={require('../assets/images/White Cart icon.png')} txt={'Marketplace'}/>
                   </DropdownToggle>
@@ -77,7 +77,7 @@ export class Demo1 extends Component {
             </Col>
             <Col xs='12' sm='4'  style={{padding: 1}}>
 
-            <Dropdown isOpen={this.state.dropdownOpen2} toggle={this.toggle2} style={{backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}}>
+            <Dropdown isOpen={this.state.dropdownOpen2} toggle={this.toggle2} style={{backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}} onMouseOver={this.toggle2}>
                   <DropdownToggle style={{backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex', padding: 0}}>
                     <Category img={require('../assets/images/Knowledge Hub icon.png')} txt={'SME Knowledge Hub'}/> 
                   </DropdownToggle>
@@ -89,7 +89,7 @@ export class Demo1 extends Component {
                 </Dropdown>
             </Col>
             <Col xs='12' sm='4' style={{padding: 1}}>
-            <Dropdown isOpen={this.state.dropdownOpen3} toggle={this.toggle3} style={{backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}}>
+            <Dropdown isOpen={this.state.dropdownOpen3} toggle={this.toggle3} style={{backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex'}} onMouseOver={this.toggle3}>
                   <DropdownToggle style={{backgroundColor: 'transparent', borderWidth: 0, borderColor: 'transparent', flex: 1, display: 'flex', padding: 0}}>
                     <Category img={require('../assets/images/Biz Xchange Icon.png')} txt={'Business Exchange'}/>
                   </DropdownToggle>
