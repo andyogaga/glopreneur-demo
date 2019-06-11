@@ -99,7 +99,7 @@ class MarketPlace extends Component {
         </Row>
         <Row style={{justifyContent: 'center', alignItems: 'center', marginTop: 20}}>
           <Col xs='12' sm='6' md='4' style={{justifyContent: 'center', alignItems: 'center', alignSelf: 'center' }}>
-       <Button style={{width: '100%', backgroundColor: '#337700', borderRadius: 0, alignSelf: 'center'}}>Explor Marketplace</Button>
+       <Button style={{width: '100%', backgroundColor: '#337700', borderRadius: 0, alignSelf: 'center'}}>Explore Products</Button>
       </Col>
         </Row>
       </Container>

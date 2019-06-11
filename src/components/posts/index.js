@@ -10,7 +10,7 @@ class PostsRow extends Component {
         <Row >
           <Col>
             <div style={{ justifyContent: 'center', alignItems: 'center', margin: 20 }}>
-              <h3 style={{ alignSelf: 'center', textAlign: 'center', fontWeight: 'bold', color: '#337700', marginBottom: 30 }}>Knowledge Hub</h3>
+              <h3 style={{ alignSelf: 'center', textAlign: 'center', fontWeight: 'bold', color: '#337700', marginBottom: 30 }}>Knowledge Base</h3>
             </div>
           </Col>
         </Row>
