@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glopreneur-demo/precache-manifest.7982141a0f2c89004901894835c5e726.js"
+  "/glopreneur-demo/precache-manifest.d5fb92792dc4e81e710513a06c9ac6cd.js"
 );
 
 self.addEventListener('message', (event) => {

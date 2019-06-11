@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e668cb08f0fcd6deef5d229adad8e08",
+    "revision": "553a58fa3737ca14070f7d7d6cc07f29",
     "url": "/glopreneur-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glopreneur-demo/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b2359a2278e9fd2712b7",
+    "revision": "9642e6c21a63b5beec19",
     "url": "/glopreneur-demo/static/css/main.e6e1bb00.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glopreneur-demo/static/js/2.c2570b19.chunk.js"
   },
   {
-    "revision": "b2359a2278e9fd2712b7",
-    "url": "/glopreneur-demo/static/js/main.b3b86db6.chunk.js"
+    "revision": "9642e6c21a63b5beec19",
+    "url": "/glopreneur-demo/static/js/main.f92e9416.chunk.js"
   },
   {
     "revision": "e3b29f8bdc7c9d535217",
