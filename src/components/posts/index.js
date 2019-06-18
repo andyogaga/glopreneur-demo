@@ -15,8 +15,8 @@ class PostsRow extends Component {
           </Col>
         </Row>
         <Row >
-          <Col xs={12} md={8}>
-            <img src={require('../../assets/images/Ultimate Guide.png')} alt={'Recent Post'} resizeMode='cover' />
+          <Col xs={12} sm={8}>
+            <img src={require('../../assets/images/Ultimate Guide.png')} alt={'Recent Post'} resizeMode='contain' style={{ width: '100%' }} />
             <div style={{ justifyContent: 'center', alignItems: 'center' }}>
               <h3 style={{ alignSelf: 'center', textAlign: 'left', fontWeight: 'bold', marginTop: 20, lineHeight: 1.2 }}>Ultimate Guide to Business Growth Online 2019 </h3>
             </div>
@@ -41,24 +41,24 @@ class PostsRow extends Component {
             <SinglePost img={require('../../assets/images/Post Four.jpg')} altText={'Post Four'} title={'How to promote customer loyalty'} description={'This is a sample text of an excerpt from the body of the article'} />
           </Col>
         </Row>
-        <Row style={{marginTop: 20, marginBottom: 20}}>
+        <Row style={{ marginTop: 20, marginBottom: 20 }}>
           <Col xs={6} md={3}>
-          <FormGroup>
-          <Input type="text" name="search" id="fname" placeholder="Full Name" style={{borderColor: '#337700', borderRadius: 0, borderWidth: 1.5}} />
-        </FormGroup>
+            <FormGroup>
+              <Input type="text" name="search" id="fname" placeholder="Full Name" style={{ borderColor: '#337700', borderRadius: 0, borderWidth: 1.5 }} />
+            </FormGroup>
           </Col>
           <Col xs={6} md={3} >
-          <FormGroup>
-          <Input type="text" name="search" id="bizname" placeholder="Business Name" style={{borderColor: '#337700', borderRadius: 0, borderWidth: 1.5}}/>
-        </FormGroup>
+            <FormGroup>
+              <Input type="text" name="search" id="bizname" placeholder="Business Name" style={{ borderColor: '#337700', borderRadius: 0, borderWidth: 1.5 }} />
+            </FormGroup>
           </Col>
           <Col xs={6} md={3}>
-          <FormGroup>
-          <Input type="email" name="search" id="email" placeholder="Email Address " style={{borderColor: '#337700', borderRadius: 0, borderWidth: 1.5}}/>
-        </FormGroup>
+            <FormGroup>
+              <Input type="email" name="search" id="email" placeholder="Email Address " style={{ borderColor: '#337700', borderRadius: 0, borderWidth: 1.5 }} />
+            </FormGroup>
           </Col>
           <Col xs={6} md={3}>
-          <Button style={{width: '80%', backgroundColor: '#337700', borderRadius: 0, fontWeight: 'bold'}}>Subscribe</Button>
+            <Button style={{ width: '80%', backgroundColor: '#337700', borderRadius: 0, fontWeight: 'bold' }}>Subscribe</Button>
           </Col>
         </Row>
       </Container>

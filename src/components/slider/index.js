@@ -10,7 +10,7 @@ class Slider extends Component {
         <Row style={{ width: '100%', justifyContent: 'center', alignItems: 'center' }}>
           <Col md='1'></Col>
           <Col xs='12' md='4' style={{ width: '40%', justifyContent: 'center', alignItems: 'center' }}>
-            <div style={{alignSelf: 'center'}}>
+            <div style={{alignSelf: 'center',marginTop: 30}}>
               <h2>BE THE <strong style={{ fontWeight: 700, color: '#337700' }}>GRANDMASTER</strong> </h2>
               <h2>OF YOUR BUSINESS </h2>
               <h5 style={{marginBottom: 30, fontWeight: '400', marginTop: 5}}>with the glopreneur platform for SMEs</h5>

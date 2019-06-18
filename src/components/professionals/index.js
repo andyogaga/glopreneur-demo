@@ -11,7 +11,7 @@ class Professionals extends Component {
           <Row style={{ justifyContent: 'center', alignItems: 'center', height: '100%' }}>
             <Col xs={1} md={2}></Col>
             <Col xs={10} md={8} style={{ alignSelf: 'center' }}>
-              <h1 style={{ alignSelf: 'center', textAlign: 'center', marginTop: 20, color: '#fff' }}>Hire <strong style={{ fontWeight: 500 }}>Trusted Professionals</strong> for your Business, Office and Home Services</h1>
+              <h3 style={{ alignSelf: 'center', textAlign: 'center', marginTop: 20, color: '#fff', lineHeight: 1.2 }}>Hire <strong style={{ fontWeight: 500 }}>Trusted Professionals</strong> for your Business, Office and Home Services</h3>
               <Row style={{marginTop: 60}}>
                 <Col xs={12} md={5}>
                   <Button style={{ width: '60%', backgroundColor: '#337700', borderRadius: 0, alignSelf: 'flex-start', marginLeft: 15, fontWeight: 'bold' }}>Hire a Pro</Button>
