@@ -16,7 +16,7 @@ class PostsRow extends Component {
         </Row>
         <Row >
           <Col xs={12} md={8}>
-            <img src={require('../../assets/images/Ultimate Guide.png')} alt={'Recent Post'} />
+            <img src={require('../../assets/images/Ultimate Guide.png')} alt={'Recent Post'} resizeMode='cover' />
             <div style={{ justifyContent: 'center', alignItems: 'center' }}>
               <h3 style={{ alignSelf: 'center', textAlign: 'left', fontWeight: 'bold', marginTop: 20, lineHeight: 1.2 }}>Ultimate Guide to Business Growth Online 2019 </h3>
             </div>
