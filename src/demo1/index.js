@@ -75,8 +75,8 @@ export class Demo1 extends Component {
                 >
                   <Container >
                     <Row >
-                      <Col md="4" >
-                        <h3 style={{ textAlign: 'justify', fontWeight: 'bold', color: '#337700', marginBottom: 16 }}>Top Categories</h3>
+                      <Col md="6" >
+                        <h3 style={{ textAlign: 'justify', fontWeight: 'bold', color: '#337700', marginBottom: 16, fontSize: 16 }}>Top Categories</h3>
                         <DropdownItem >Automobile</DropdownItem>
                         <DropdownItem>Computing</DropdownItem>
                         <DropdownItem >Electronics</DropdownItem>
@@ -88,8 +88,8 @@ export class Demo1 extends Component {
                         <DropdownItem>Agricultural Commodities</DropdownItem>
                         <DropdownItem>Power Solutions</DropdownItem>
                       </Col>
-                      <Col md={'4'} >
-                      <h3 style={{ textAlign: 'justify', fontWeight: 'bold', color: '#337700', marginBottom: 16 }}>Top Markets</h3>
+                      <Col md={'6'} >
+                      <h3 style={{ textAlign: 'justify', fontWeight: 'bold', color: '#337700', marginBottom: 16, fontSize: 16 }}>Top Markets</h3>
                       <DropdownItem>Alaba</DropdownItem>
                         <DropdownItem>Computer Village</DropdownItem>
                         <DropdownItem>Aba</DropdownItem>
