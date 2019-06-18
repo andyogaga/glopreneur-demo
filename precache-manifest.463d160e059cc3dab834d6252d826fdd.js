@@ -1,35 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "553a58fa3737ca14070f7d7d6cc07f29",
+    "revision": "30792cb680a05ca9b221b016967ed94b",
     "url": "/glopreneur-demo/index.html"
   },
   {
-    "revision": "905b1925d079b35d1732",
+    "revision": "08d004288c88cf786900",
     "url": "/glopreneur-demo/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "9642e6c21a63b5beec19",
-    "url": "/glopreneur-demo/static/css/main.e6e1bb00.chunk.css"
+    "revision": "f8ff3d50e7ca5506741e",
+    "url": "/glopreneur-demo/static/css/main.02f89c88.chunk.css"
   },
   {
-    "revision": "905b1925d079b35d1732",
-    "url": "/glopreneur-demo/static/js/2.c2570b19.chunk.js"
+    "revision": "08d004288c88cf786900",
+    "url": "/glopreneur-demo/static/js/2.92f4a223.chunk.js"
   },
   {
-    "revision": "9642e6c21a63b5beec19",
-    "url": "/glopreneur-demo/static/js/main.f92e9416.chunk.js"
+    "revision": "f8ff3d50e7ca5506741e",
+    "url": "/glopreneur-demo/static/js/main.ad18f33c.chunk.js"
   },
   {
     "revision": "e3b29f8bdc7c9d535217",
     "url": "/glopreneur-demo/static/js/runtime~main.60fdd11d.js"
   },
   {
-    "revision": "978d7029037fa44c86d51c388d03bc7e",
-    "url": "/glopreneur-demo/static/media/M1 - Smartphones.978d7029.jpg"
+    "revision": "da7c3ceaeab7f17fd914fd14c5e046f4",
+    "url": "/glopreneur-demo/static/media/Aba.da7c3cea.jpg"
   },
   {
-    "revision": "ccbf8c531befceea3956b5619fd51163",
-    "url": "/glopreneur-demo/static/media/M1 - laptops.ccbf8c53.jpg"
+    "revision": "e147c943ccdbaeeb6a08fdeb93920f5f",
+    "url": "/glopreneur-demo/static/media/Alaba.e147c943.jpg"
+  },
+  {
+    "revision": "7ea5ed4f271b8f3ee47288d38018286a",
+    "url": "/glopreneur-demo/static/media/Aspanda.7ea5ed4f.jpg"
   },
   {
     "revision": "3a522a42dd05be8ea4fe83613c10cbad",
@@ -52,12 +56,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glopreneur-demo/static/media/Post Two.d8a31a3b.jpg"
   },
   {
+    "revision": "8ba689922c3c4eff938dd9e547e57a26",
+    "url": "/glopreneur-demo/static/media/Slide Five.8ba68992.jpg"
+  },
+  {
+    "revision": "1f0de4e60c8347f4641b1ffd5136922f",
+    "url": "/glopreneur-demo/static/media/Slide Four.1f0de4e6.jpg"
+  },
+  {
     "revision": "a7b712ad1184b6d4000c1368b6735f44",
     "url": "/glopreneur-demo/static/media/Slide One.a7b712ad.jpg"
   },
   {
     "revision": "335810e54cec590164745865e43ea00a",
     "url": "/glopreneur-demo/static/media/Slide Two.335810e5.jpg"
+  },
+  {
+    "revision": "b761c6e9730b93683d510573869e3613",
+    "url": "/glopreneur-demo/static/media/Slide three.b761c6e9.jpg"
   },
   {
     "revision": "c7730b169575b06888755861ff14e719",
@@ -70,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7b15a6477ab610815a88c87c9110e34a",
     "url": "/glopreneur-demo/static/media/bizPartners.7b15a647.png"
+  },
+  {
+    "revision": "9631561b4099df2de5314452dc26c15d",
+    "url": "/glopreneur-demo/static/media/cv.9631561b.jpg"
   }
 ]);
