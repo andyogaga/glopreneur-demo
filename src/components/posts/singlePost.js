@@ -5,13 +5,13 @@ class SinglePost extends Component {
   render() {
     return (
       <Container >
-        <Row style={{ justifyContent: 'center', alignItems: 'center',  marginBottom: 20, marginLeft: 10 }}>
+        <Row style={{ justifyContent: 'center', alignItems: 'center',  marginBottom: 20, marginTop: 5, marginLeft: 15 }}>
           <Col xs={12} sm={5} style={{width: '100%'}}>
             <img src={this.props.img} alt={this.props.altText} style={{ width: '100%' }} resizeMode='cover' />
           </Col>
           <Col xs={12} sm={7}>
               <Row >
-                <h6 style={{ fontSize: 14, color: '#000', textAlign: 'justify' }}>
+                <h6 style={{ fontSize: 14, color: '#000', textAlign: 'left' }}>
                   {this.props.title}
                 </h6>
               </Row>

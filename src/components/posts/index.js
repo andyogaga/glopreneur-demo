@@ -15,7 +15,7 @@ class PostsRow extends Component {
           </Col>
         </Row>
         <Row >
-          <Col xs={12} sm={8}>
+          <Col xs={12} sm={12} md={8}>
             <img src={require('../../assets/images/Ultimate Guide.png')} alt={'Recent Post'} resizeMode='contain' style={{ width: '100%' }} />
             <div style={{ justifyContent: 'center', alignItems: 'center' }}>
               <h3 style={{ alignSelf: 'center', textAlign: 'left', fontWeight: 'bold', marginTop: 20, lineHeight: 1.2 }}>Ultimate Guide to Business Growth Online 2019 </h3>
@@ -34,7 +34,7 @@ class PostsRow extends Component {
               </Col>
             </Row>
           </Col>
-          <Col xs={12} md={4} >
+          <Col xs={12} sm={12} md={4} >
             <SinglePost img={require('../../assets/images/Post One.jpg')} altText={'Post One'} title={'How to come up with great business ideas'} description={'This is a sample text of an excerpt from the body of the article'} />
             <SinglePost img={require('../../assets/images/Post Two.jpg')} altText={'Post Two'} title={'Why delivering excellent customer service is important'} description={'This is a sample text of an excerpt from the body of the article'} />
             <SinglePost img={require('../../assets/images/Post Three.jpg')} altText={'Post Three'} title={'What to do when things aren’t going well in business'} description={'This is a sample text of an excerpt from the body of the article'} />
